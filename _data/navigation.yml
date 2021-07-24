@@ -22,8 +22,6 @@ sitemap:
             url: /speakers.html
           - title: "Participants"
             url: /participants.html
-          - title: "Gomoku"
-            url: /gomoku.html
 
 contact:
     - title: "Contact Information"
