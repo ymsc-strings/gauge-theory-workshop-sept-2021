@@ -1,0 +1,32 @@
+# main links
+# main:
+    #- title: "Quick-Start Guide"
+    #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    #- title: "About"
+    #    url: https://mmistakes.github.io/minimal-mistakes/about/
+    #- title: "Sample Posts"
+    #    url: /year-archive/
+    #- title: "Sample Collections"
+    #    url: /collection-archive/
+    #- title: "Sitemap"
+    #    url: /sitemap/
+
+sitemap:
+    - title: "Sitemap"
+      children:
+          - title: "Home"
+            url: /index.html
+          - title: "Schedule"
+            url: /schedule.html
+          - title: "Speakers"
+            url: /speakers.html
+          - title: "Participants"
+            url: /participants.html
+          - title: "Gomoku"
+            url: /gomoku.html
+
+contact:
+    - title: "Contact Information"
+      children:
+          - title: "Jin Chen"
+          - title: "Marcus Sperling"
