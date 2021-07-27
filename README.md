@@ -5,6 +5,12 @@ Powered by [Jekyll](https://jekyllrb.com/) & [Minimal Mistakes](https://mademist
 Special thanks for [NAACL 2021](https://2021.naacl.org/)([source codes](https://github.com/naacl-org/naacl-2021-website)).
 Help I got from this website is more then the documents.
 
+## Customized Files
+
+* Customize pages are under \_pages.
+* \_incldues\footer.html is modified to hide a FEED icon.
+
+
 
 ## License
 
