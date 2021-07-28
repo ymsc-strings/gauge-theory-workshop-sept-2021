@@ -6,6 +6,7 @@ classes: wide
 toc: true
 sidebar:
     - nav: sitemap
+    - nav: contact
 
 ---
 

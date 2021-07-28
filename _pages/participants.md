@@ -6,20 +6,20 @@ classes: wide
 toc: false
 sidebar:
     - nav: sitemap
+    - nav: contact
+other_participants:
+    - Xiaobin Li, SWJT Chengdu
+    - Hao Wang, Fudan
+    - Peihe Yang, Tianjin
 
 ---
 
-### Participants
-
-* Minxin Huang, USTC Hefei
-* Sung-Soo Kim, UESTC Chengdu
-* Satoshi Nawata, Fudan University, Shanghai
-* Ioannis Papadimitriou, BIMSA
-* Peng Zhao, ITP CAS
-* Yinan Wang, Peking University
-* Futoshi Yagi, South-West JiaoTong University, Chengdu
-* Hong Zhang, Shanghai University
-* Ruidong Zhu, Soochow University, Suzhou
-* Xiaobin Li, SWJT Chengdu
-* Hao Wang, Fudan
-* Peihe Yang, Tianjin
+<ul>
+    <!-- speakers are in _data/navigation.yml -->
+    {% for s in site.data.navigation.speakers %}
+        <li> {{ s.name }} </li>
+    {% endfor %}
+    {% for s in page.other_participants %}
+        <li> {{ s }} </li>
+    {% endfor %}
+</ul>

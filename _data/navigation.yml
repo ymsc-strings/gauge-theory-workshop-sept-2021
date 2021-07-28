@@ -27,4 +27,17 @@ contact:
     - title: "Contact Information"
       children:
           - title: "Jin Chen"
+            mail: "jinchen@mail.tsinghua.edu.cn"
           - title: "Marcus Sperling"
+            mail: "msperling@mail.tsinghua.edu.cn"
+
+speakers:
+  - name: Minxin Huang, USTC Hefei
+  - name: Sung-Soo Kim, UESTC Chengdu
+  - name: Satoshi Nawata, Fudan University, Shanghai
+  - name: Ioannis Papadimitriou, BIMSA
+  - name: Peng Zhao, ITP CAS
+  - name: Yinan Wang, Peking University
+  - name: Futoshi Yagi, South-West JiaoTong University, Chengdu
+  - name: Hong Zhang, Shanghai University
+  - name: Ruidong Zhu, Soochow University, Suzhou

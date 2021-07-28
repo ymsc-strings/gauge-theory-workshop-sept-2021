@@ -7,8 +7,10 @@ Help I got from this website is more then the documents.
 
 ## Customized Files
 
-* Customize pages are under \_pages.
-* \_incldues\footer.html is modified to hide a FEED icon.
+* All pages are under \_pages
+* \_incldues\footer.html is modified to hide a FEED icon
+* \_includes\nav_list
+* \_sass/minimal-mistakes/\_sidebar.scss
 
 
 

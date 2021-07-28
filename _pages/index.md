@@ -5,11 +5,18 @@ layout: single
 classes: wide
 toc: false
 sidebar:
-    nav: sitemap
+    - nav: sitemap
+    - nav: contact
 ---
 
 * Dates: 24-26 Sept 2021
 * Venue: Yau Mathematical Sciences Center, Tsinghua University
 * Contact Information
-    * Jin Chen <a href="mailto:jinchen@mail.tsinghua.edu.cn">jinchen@mail.tsinghua.edu.cn</a>
-    * Marcus Sperling <a href="mailto:msperling@mail.tsinghua.edu.cn">msperling@mail.tsinghua.edu.cn</a>
+    <ul>
+        {% for child in site.data.navigation.contact[0].children %}
+            <li>
+            <div>{{child.title}}</div>
+            <a href="mailto:{{ child.mail }}">{{ child.mail }}</a>
+            </li>
+        {% endfor %}
+    </ul>
