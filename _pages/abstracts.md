@@ -10,18 +10,39 @@ sidebar:
 
 ---
 
+<!--
+    Script for Latex, copied from https://www.sarpublisher.com/how-to-enable-latex-in-blogger/
+    Offical docs of MathJax can be found under https://docs.mathjax.org/en/v2.7-latest/configuration.html#configuring-mathjax
+    Under default setting, all formulas are too large. I added `scale: 80` under "HTML-CSS" to fix this.
+-->
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        },
+        "HTML-CSS": {availableFonts: ["TeX"], scale: 80}
+    });
+</script>
+
 ## Penrose Limit: A Stringy Regime in Holography by Minxin Huang
 
-Penrose limit provides a promising avenue to the stringy regime in the AdS/CFT holography, giving rise to the pp-wave background. Recently, we proposed a novel entry of the pp-wave holographic dictionary, which equated the Berenstein-Maldacena-Nastase  (BMN)  two-point functions in free Yang-Mills theory with the norm squares of the quantum unitary transition amplitudes between the corresponding tensionless strings. If our proposal is correct, it would not only provide first examples of systematic calculations of the higher genus critical superstring amplitudes, but may also in principle gives exact complete results for any string coupling, due to the convergence of genus expansion.
+Penrose limit provides a promising avenue to the stringy regime in the AdS/CFT holography, giving rise to the pp-wave background. Recently, we proposed a novel entry of the pp-wave holographic dictionary, which equated the Berenstein-Maldacena-Nastase (BMN) two-point functions in free Yang-Mills theory with the norm squares of the quantum unitary transition amplitudes between the corresponding tensionless strings. If our proposal is correct, it would not only provide first examples of systematic calculations of the higher genus critical superstring amplitudes, but may also in principle gives exact complete results for any string coupling, due to the convergence of genus expansion.
 
-## Instanton counting in BCD-type gauge theories and O-vertex by Ruidong Zhu
+## Instanton Counting in BCD-type Gauge Theories and O-vertex by Ruidong Zhu
 
-Localization method together with ADHM construction provide a powerful way to compute the exact partition function of 8 SUSY gauge theories. In particular, Nekrasov’s partition function is interesting because of the non-perturbative corrections from instantons. It is, however, known to be di cult to perform the integrals in an analytic way that appear in the computation of instanton partition functions of BCD-type gauge theories. In this talk, we propose an analytic expression for these integrals in the unre ned limit in the form of summation over Young diagrams. Our results are inspired by the topological vertex formalism in topological string theory.
+Localization method together with ADHM construction provide a powerful way to compute the exact partition function of 8 SUSY gauge theories. In particular, Nekrasov’s partition function is interesting because of the non-perturbative corrections from instantons. It is, however, known to be difficult to perform the integrals in an analytic way that appear in the computation of instanton partition functions of BCD-type gauge theories. In this talk, we propose an analytic expression for these integrals in the unrefined limit in the form of summation over Young diagrams. Our results are inspired by the topological vertex formalism in topological string theory.
 
-## 3d N=4 Unitary/Orthosymplectic Duality by Satoshi Nawata
+## 3d $N=4$ Unitary/Orthosymplectic Duality by Satoshi Nawata
 
-There are two ways to realize 3d N=4 Sp(k) SQCDs in Type IIB string theory: either O3^+ plane or O5^- plane. The mirror dual to the O3^+ plane realization is an orthosymplectic quiver theory whereas the mirror dual to the O5^- plane realization is a unitary quiver theory. Using exact partition functions, we will show that these two mirror theories are dual to each other, and we also reveal brane dynamics with O-plane.  Similarly, considering 5d N=1 Sp(k) SQCDs at the infinite coupling limit, the magnetic quiver techniques find a pair of 3d N=4 unitary and orthosymplectic quiver with the same Higgs and Coulomb branch. We also discuss the duality between these magnetic quivers. I will end the talk with lots of open problems, expecting insightful feedbacks from audiences. This is about ongoing joint work with M. Sperling, Z. Zhong, and H. Wang.
+There are two ways to realize 3d $N=4$ $Sp(k)$ SQCDs in Type IIB string theory: either $O3^+$ plane or $O5^-$ plane. The mirror dual to the $O3^+$ plane realization is an orthosymplectic quiver theory whereas the mirror dual to the $O5^-$ plane realization is a unitary quiver theory. Using exact partition functions, we will show that these two mirror theories are dual to each other, and we also reveal brane dynamics with O-plane.  Similarly, considering 5d $N=1$ $Sp(k)$ SQCDs at the infinite coupling limit, the magnetic quiver techniques find a pair of 3d $N=4$ unitary and orthosymplectic quiver with the same Higgs and Coulomb branch. We also discuss the duality between these magnetic quivers. I will end the talk with lots of open problems, expecting insightful feedbacks from audiences. This is about ongoing joint work with M. Sperling, Z. Zhong, and H. Wang.
 
-## OPE Coefficients in ABJM Theory with Giants by Yunfeng Jiang
+## OPE Coefficients of ABJM Theory with Giants (Part I) by Yunfeng Jiang
 
 In this talk, I will discuss a family of three-point functions in ABJM theory, both at weak and strong coupling. This family of three-point functions involve two BPS sub-determinant operators called giant gravitons and one single trace operator, which can be BPS or non-BPS. In the first part of the talk, I will explain how to compute this type of three-point functions at weak coupling using a large $N$ effective field theory. The structure constant is given by the overlap of an integrable matrix product state and a Bethe state. In the second part, I will first clarify the prescription at strong coupling by considering examples in $\mathcal{N}=4$ SYM theory. I will show that it is important to perform an average over the moduli space and also take into account the contributions from wave functions. These prescriptions are tested by a highly non-trivial matching of the structure constants at weak and strong couplings in $\mathcal{N}=4$ SYM theory. We then apply this prescription to ABJM theory and give concrete predictions at strong coupling.
+
+## OPE Coefficients of ABJM Theory with Giants (Part II) by Junbao Wu
+
+This is a joint talk with Yunfeng Jiang. In these talks, we will present recent results on the exact computation of giant graviton OPE coefficients in ABJM theory. In part II, we will focus on the holographic computations which is dual to strong coupling in the gauge theory side. Our approach resolves puzzles and confusions in the literature on the holographic computation of correlation functions of heavy operators. In particular, we point out two important effects which are often missed in the literature; the first one is an average over classical configurations of the heavy state, which physically amounts to projecting the state to an eigenstate of quantum numbers. The second one is the contribution from wave functions of the heavy state. To demonstrate the power of the method, we first analyze the three-point functions in $\mathcal{N}=4$ super Yang-Mills and reproduce the results in field theory from holography, including the cases for which the previous holographic computation gives incorrect answers. We then apply it to ABJM theory and make solid predictions at strong coupling.
