@@ -18,6 +18,8 @@ sitemap:
             url: /index.html
           - title: "Schedule"
             url: /schedule.html
+          - title: "Abstracts"
+            url: /abstracts.html
           - title: "Speakers"
             url: /speakers.html
           - title: "Participants"

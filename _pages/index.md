@@ -1,5 +1,5 @@
 ---
-title: "Gauge Theory Workshop"
+title: "Fields, Strings and Geometries"
 permalink: /index.html
 layout: single
 classes: wide
@@ -10,7 +10,8 @@ sidebar:
 ---
 
 * Dates: 24-26 Sept 2021
-* Venue: Yau Mathematical Sciences Center, Tsinghua University
+* Venue: 3rd floor lecture hall of Jinchunyuan West Building 近春园西楼三楼报告厅
+* Hotel: Tsinghua Jiasuo hotel 清华甲所宾馆
 * Contact Information
     <ul>
         {% for child in site.data.navigation.contact[0].children %}
