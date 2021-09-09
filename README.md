@@ -7,10 +7,10 @@ Help I got from this website is more then the documents.
 
 ## Customized Files
 
-* All pages are under \_pages
-* \_incldues\footer.html is modified to hide a FEED icon
-* \_includes\nav_list
-* \_sass/minimal-mistakes/\_sidebar.scss
+* All custom pages are under __\_pages__
+* __\_incldues\footer.html__: to hide a FEED icon
+* __\_includes\nav_list__ and __\_sass/minimal-mistakes/\_sidebar.scss__: to accomodate multiple navs in sidebar (see [Multiple Navigations in Sidebar](https://github.com/mmistakes/minimal-mistakes/issues/3089))
+* MathJax is added in __\_pages/abstracts.md__
 
 
 
