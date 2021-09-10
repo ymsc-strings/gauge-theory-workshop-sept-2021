@@ -16,10 +16,10 @@ sitemap:
       children:
           - title: "Home"
             url: /index.html
-          - title: "Schedule"
-            url: /schedule.html
           - title: "Abstracts"
             url: /abstracts.html
+          - title: "Schedule"
+            url: /schedule.html
           - title: "Speakers"
             url: /speakers.html
           - title: "Participants"

@@ -11,6 +11,7 @@ other_participants:
     - Xiaobin Li, SWJT Chengdu
     - Hao Wang, Fudan
     - Peihe Yang, Tianjin
+    - Jiang Jiaqun, Shanghai
 
 ---
 
