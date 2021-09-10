@@ -9,9 +9,9 @@ sidebar:
     - nav: contact
 other_participants:
     - Xiaobin Li, SWJT Chengdu
-    - Hao Wang, Fudan
-    - Peihe Yang, Tianjin
-    - Jiang Jiaqun, Shanghai
+    - Hao Wang, Fudan University
+    - Peihe Yang, Tianjin University
+    - Jiang Jiaqun, Fudan University 
 
 ---
 
