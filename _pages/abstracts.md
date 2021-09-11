@@ -52,6 +52,6 @@ This is a joint talk with Yunfeng Jiang. In these talks, we will present recent 
 
 I'm going to talk about the construction of 5d SCFTs from M-theory on C3 orbifold singularities, which are classified by the discrete subgroups of $SU(3)$. The properties of such 5d SCFTs are studied using two methods: (1) group theoretic data and 3d Mckay correspondence; (2) resolution of the singularity which corresponds to the 5d Coulomb branch. In certain cases, the threefold singularity can also be embedded into an elliptic model, which leads to a 6d $(1,0)$ SCFT in the F-theory framework. We find new rank-1 6d SCFTs without gauge groups.
 
-## Closed-form Schur indices by Yiwen Pan
+## Closed-form Schur Indices by Yiwen Pan
 
-Schur index is a remarkable observable associated to any 4d N=2 SCFT, and plays a central role in the SCFT/VOA correspondence. In this talk, I will discuss an elementary method to compute them in closed-form in terms of finite sum of Eisenstein series. In particular, we derive a compact closed-form formula for all A1-theories of class-S, and conjecture closed-form unflavored indices for N=4 theories with SU(N) gauge groups. Some applications will also be discussed. 
+Schur index is a remarkable observable associated to any 4d $N=2$ SCFT, and plays a central role in the SCFT/VOA correspondence. In this talk, I will discuss an elementary method to compute them in closed-form in terms of finite sum of Eisenstein series. In particular, we derive a compact closed-form formula for all A1-theories of class-S, and conjecture closed-form unflavored indices for $N=4$ theories with $SU(N)$ gauge groups. Some applications will also be discussed. 
