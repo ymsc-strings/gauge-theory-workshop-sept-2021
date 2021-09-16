@@ -55,3 +55,7 @@ I'm going to talk about the construction of 5d SCFTs from M-theory on C3 orbifol
 ## Closed-form Schur Indices by Yiwen Pan
 
 Schur index is a remarkable observable associated to any 4d $N=2$ SCFT, and plays a central role in the SCFT/VOA correspondence. In this talk, I will discuss an elementary method to compute them in closed-form in terms of finite sum of Eisenstein series. In particular, we derive a compact closed-form formula for all A1-theories of class-S, and conjecture closed-form unflavored indices for $N=4$ theories with $SU(N)$ gauge groups. Some applications will also be discussed. 
+
+## 6d Seiberg-Witten curves and 5-brane webs by Sung-Soo Kim
+
+In this talk, we discuss the construction of the Seiberg-Witten (SW) curves based on Type IIB 5-brane webs. After reviewing the construction for SW curves for 5d supersymmetric gauge theories, we discuss how to generalize it to 6d superconformal theories which can be realized on a 5-brane webs with periodic direction. In particular, we construct the SW curve for 6d E-string theory using a 5-brane web with two O5-planes. In fact, the E-string SW curve is already constructed by Eguchi and Sakai which is rather complicated. Our expression is, however, much simpler than the Eguchi and Sakai's one. We discuss equivalence between our curve and the Eguchi and Sakai. Finally we further generalize our construction of the SW curves to 6d little string theories. 
