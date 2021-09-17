@@ -56,13 +56,13 @@ I'm going to talk about the construction of 5d SCFTs from M-theory on C3 orbifol
 
 Schur index is a remarkable observable associated to any 4d $N=2$ SCFT, and plays a central role in the SCFT/VOA correspondence. In this talk, I will discuss an elementary method to compute them in closed-form in terms of finite sum of Eisenstein series. In particular, we derive a compact closed-form formula for all A1-theories of class-S, and conjecture closed-form unflavored indices for $N=4$ theories with $SU(N)$ gauge groups. Some applications will also be discussed.
 
-## 6d Seiberg-Witten curves and 5-brane webs by Sung-Soo Kim
+## 6d Seiberg-Witten Curves and 5-brane Webs by Sung-Soo Kim
 
 In this talk, we discuss the construction of the Seiberg-Witten (SW) curves based on Type IIB 5-brane webs. After reviewing the construction for SW curves for 5d supersymmetric gauge theories, we discuss how to generalize it to 6d superconformal theories which can be realized on a 5-brane webs with periodic direction. In particular, we construct the SW curve for 6d E-string theory using a 5-brane web with two O5-planes. In fact, the E-string SW curve is already constructed by Eguchi and Sakai which is rather complicated. Our expression is, however, much simpler than the Eguchi and Sakai's one. We discuss equivalence between our curve and the Eguchi and Sakai. Finally we further generalize our construction of the SW curves to 6d little string theories.
 
-## Thermodynamic limit of Nekrasov partition function for 5-brane web with O5-plane by Futoshi Yagi
+## Thermodynamic Limit of Nekrasov Partition Function for 5-brane Web with O5-plane by Futoshi Yagi
 
-We study 5d N=1 Sp(N) gauge theory with Nf ( ≤ 2N + 3 ) flavors based on 5-brane web diagram with O5-plane. On the one hand, we discuss Seiberg-Witten curve directly from the 5-brane web. In this process, the boundary conditions originated from the O5-plane plays a key role. On the other hand, we compute the Nekrasov partition function based on the topological vertex formalism with O5-plane, which is the generalization for the conventional topological vertex.  Rewriting it in terms of profile functions, we obtain the saddle point equation for the profile function after taking thermodynamic limit. By introducing the resolvent, we derive the Seiberg-Witten curve and its boundary conditions as well as its relation to the prepotential in terms of the cycle integrals. They coincide with those directly obtained from the 5-brane web. This result would shed light on the mirror symmetry for non-toric Calabi-Yau 3-folds including D-type singularities, which is expected to be related to the 5-brane web diagram with O5-plane.
+We study 5d $N=1$ $Sp(N)$ gauge theory with $Nf\;( \leq 2N + 3 )$ flavors based on 5-brane web diagram with O5-plane. On the one hand, we discuss Seiberg-Witten curve directly from the 5-brane web. In this process, the boundary conditions originated from the O5-plane plays a key role. On the other hand, we compute the Nekrasov partition function based on the topological vertex formalism with O5-plane, which is the generalization for the conventional topological vertex.  Rewriting it in terms of profile functions, we obtain the saddle point equation for the profile function after taking thermodynamic limit. By introducing the resolvent, we derive the Seiberg-Witten curve and its boundary conditions as well as its relation to the prepotential in terms of the cycle integrals. They coincide with those directly obtained from the 5-brane web. This result would shed light on the mirror symmetry for non-toric Calabi-Yau 3-folds including D-type singularities, which is expected to be related to the 5-brane web diagram with O5-plane.
 
 ## Anomalies and Supersymmetry by Ioannis Papadimitriou
 
@@ -73,6 +73,6 @@ I will discuss 't Hooft anomalies of continuous global symmetries in supersymmet
 We discuss the vertical and horizontal representations of Quantum W subalgebras, and confirm the Awata-Feigin-Shiraishi interwiner lemma which encodes the quantum constraints on the self-dual topological vertex.
 
 
-## Worldsheet variables for cluster configuration spaces and hypersurface arrangements by Peng Zhao
+## Worldsheet Variables for Cluster Configuration Spaces and Hypersurface Arrangements by Peng Zhao
 
 We introduce worldsheet variables for a certain moduli space associated with a Dynkin diagram of finite type. The construction is based on gluing a pair of A-type quivers. We find new nonlinear factors that characterize such spaces as hypersurface arrangement complement. We study various topological properties using a finite-field method and propose conjectures about quasi-polynomial point count, dimensions of cohomology, and Euler characteristics for the $D_n$ space up to $n=10$. These new variables have applications for string integrals, cluster alphabets, etc.
