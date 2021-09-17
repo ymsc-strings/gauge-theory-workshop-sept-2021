@@ -63,3 +63,16 @@ In this talk, we discuss the construction of the Seiberg-Witten (SW) curves base
 ## Thermodynamic limit of Nekrasov partition function for 5-brane web with O5-plane by Futoshi Yagi
 
 We study 5d N=1 Sp(N) gauge theory with Nf ( ≤ 2N + 3 ) flavors based on 5-brane web diagram with O5-plane. On the one hand, we discuss Seiberg-Witten curve directly from the 5-brane web. In this process, the boundary conditions originated from the O5-plane plays a key role. On the other hand, we compute the Nekrasov partition function based on the topological vertex formalism with O5-plane, which is the generalization for the conventional topological vertex.  Rewriting it in terms of profile functions, we obtain the saddle point equation for the profile function after taking thermodynamic limit. By introducing the resolvent, we derive the Seiberg-Witten curve and its boundary conditions as well as its relation to the prepotential in terms of the cycle integrals. They coincide with those directly obtained from the 5-brane web. This result would shed light on the mirror symmetry for non-toric Calabi-Yau 3-folds including D-type singularities, which is expected to be related to the 5-brane web diagram with O5-plane. 
+
+## Anomalies and Supersymmetry by Ioannis Papadimitriou
+
+I will discuss 't Hooft anomalies of continuous global symmetries in supersymmetric quantum field theories, focusing on the structure and role of the fermionic components of such anomalies and how they can be determined using a generalized anomaly descent procedure, or through supersymmetric anomaly inflow. I will then show that the fermionic components of  supersymmetric 't Hooft anomalies result in  a deformation of the charge superalgebra that affects the dependence of supersymmetric observables on the moduli of curved backgrounds admitting Killing spinors. The implications of this observation for precision tests of holographic dualities through supersymmetric localization will also be discussed.  
+
+## Representations of Quantum W subalgebras by Hong (Kilar) Zhang 
+
+We discuss the vertical and horizontal representations of Quantum W subalgebras, and confirm the Awata-Feigin-Shiraishi interwiner lemma which encodes the quantum constraints on the self-dual topological vertex.
+
+
+## Worldsheet variables for cluster configuration spaces and hypersurface arrangements by Peng Zhao
+
+We introduce worldsheet variables for a certain moduli space associated with a Dynkin diagram of finite type. The construction is based on gluing a pair of A-type quivers. We find new nonlinear factors that characterize such spaces as hypersurface arrangement complement. We study various topological properties using a finite-field method and propose conjectures about quasi-polynomial point count, dimensions of cohomology, and Euler characteristics for the $D_n$ space up to $n=10$. These new variables have applications for string integrals, cluster alphabets, etc.
