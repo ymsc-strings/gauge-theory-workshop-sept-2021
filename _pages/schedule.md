@@ -18,7 +18,7 @@ sidebar:
 table.schedule{
   margin-bottom: 0;
   margin-top: 0;
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 
 tr.min15{
