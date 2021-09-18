@@ -10,9 +10,13 @@ sidebar:
 
 ---
 
+{% comment %}
+    speakers are in \_data/navigation.yml
+{% endcomment %}
+
 <ul>
-    <!-- speakers are in _data/navigation.yml -->
-    {% for s in site.data.navigation.speakers %}
+    {% assign sorted_speakers = site.data.navigation.speakers | sort: 'name' %}
+    {% for s in sorted_speakers %}
         <li> {{ s.name }} </li>
     {% endfor %}
 </ul>

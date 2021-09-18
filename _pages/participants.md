@@ -21,7 +21,8 @@ other_participants:
 {% endcomment %}
 
 <ul>
-    {% for s in site.data.navigation.speakers %}
+    {% assign sorted_speakers = site.data.navigation.speakers | sort: 'name' %}
+    {% for s in sorted_speakers %}
         <li> {{ s.name }} </li>
     {% endfor %}
     {% assign sorted_participants = page.other_participants | sort %}
