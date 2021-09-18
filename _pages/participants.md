@@ -11,16 +11,21 @@ other_participants:
     - Xiaobin Li, SWJT Chengdu
     - Hao Wang, Fudan University
     - Peihe Yang, Tianjin University
-    - Jiang Jiaqun, Fudan University 
+    - Jiang Jiaqun, Fudan University
 
 ---
 
+{% comment %}
+    speakers are in \_data/navigation.yml
+    other_participants are in above claims
+{% endcomment %}
+
 <ul>
-    <!-- speakers are in _data/navigation.yml -->
     {% for s in site.data.navigation.speakers %}
         <li> {{ s.name }} </li>
     {% endfor %}
-    {% for s in page.other_participants %}
+    {% assign sorted_participants = page.other_participants | sort %}
+    {% for s in sorted_participants %}
         <li> {{ s }} </li>
     {% endfor %}
 </ul>

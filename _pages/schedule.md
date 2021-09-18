@@ -10,10 +10,12 @@ sidebar:
 
 ---
 
-<!--
+{% comment %}
     In an element with a 2in font, 1em thus means 2in.
     Declarations such as text-indent: 1.5em and margin: 1em are extremely common in CSS.
--->
+{% endcomment %}
+
+{% raw %}
 <style>
 table.schedule{
   margin-bottom: 0;
@@ -123,3 +125,4 @@ th{
     </tr>
 </tbody>
 </table>
+{% endraw %}
