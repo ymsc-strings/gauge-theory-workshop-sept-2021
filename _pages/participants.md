@@ -16,6 +16,10 @@ other_participants:
       from: Tianjin University
     - name: Jiang Jiaqun
       from: Fudan University
+    - name: Junya Yagi
+      from: YMSC Tsinghua University
+    - name: Babak Haghighat
+      from: YMSC Tsinghua University
 
 ---
 
