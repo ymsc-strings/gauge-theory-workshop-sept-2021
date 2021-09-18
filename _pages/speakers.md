@@ -17,6 +17,6 @@ sidebar:
 <ul>
     {% assign sorted_speakers = site.data.navigation.speakers | sort: 'name' %}
     {% for s in sorted_speakers %}
-        <li> {{ s.name }} </li>
+        <li> {{ s.name }}, <small>{{ s.from }}</small> </li>
     {% endfor %}
 </ul>

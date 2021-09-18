@@ -34,15 +34,27 @@ contact:
             mail: "msperling@mail.tsinghua.edu.cn"
 
 speakers:
-  - name: Minxin Huang, USTC, Hefei
-  - name: Sung-Soo Kim, UESTC, Chengdu
-  - name: Satoshi Nawata, Fudan University, Shanghai
-  - name: Peng Zhao, ITP CAS, Beijing
-  - name: Yinan Wang, Peking University
-  - name: Futoshi Yagi, South-West JiaoTong University, Chengdu
-  - name: Hong Zhang, Shanghai University
-  - name: Ruidong Zhu, Soochow University, Suzhou
-  - name: Ioannis Papadimitriou, BIMSA
-  - name: Yiwen Pan, Sun Yat-Sen University, Guangzhou
-  - name: Junbao Wu, Tianjin University
-  - name: Yunfeng Jiang, Southeast University, Nanjing
+  - name: Minxin Huang
+    from: USTC, Hefei
+  - name: Sung-Soo Kim
+    from: UESTC, Chengdu
+  - name: Satoshi Nawata
+    from: Fudan University, Shanghai
+  - name: Peng Zhao
+    from: ITP CAS, Beijing
+  - name: Yinan Wang
+    from: Peking University
+  - name: Futoshi Yagi
+    from: South-West JiaoTong University, Chengdu
+  - name: Hong Zhang
+    from: Shanghai University
+  - name: Ruidong Zhu
+    from: Soochow University, Suzhou
+  - name: Ioannis Papadimitriou
+    from: BIMSA
+  - name: Yiwen Pan
+    from: Sun Yat-Sen University, Guangzhou
+  - name: Junbao Wu
+    from: Tianjin University
+  - name: Yunfeng Jiang
+    from: Southeast University, Nanjing

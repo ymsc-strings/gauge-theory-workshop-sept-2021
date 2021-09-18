@@ -8,10 +8,14 @@ sidebar:
     - nav: sitemap
     - nav: contact
 other_participants:
-    - Xiaobin Li, SWJT Chengdu
-    - Hao Wang, Fudan University
-    - Peihe Yang, Tianjin University
-    - Jiang Jiaqun, Fudan University
+    - name: Xiaobin Li
+      from: SWJT Chengdu
+    - name: Hao Wang
+      from: Fudan University
+    - name: Peihe Yang
+      from: Tianjin University
+    - name: Jiang Jiaqun
+      from: Fudan University
 
 ---
 
@@ -20,13 +24,33 @@ other_participants:
     other_participants are in above claims
 {% endcomment %}
 
-<ul>
-    {% assign sorted_speakers = site.data.navigation.speakers | sort: 'name' %}
+{% assign sorted_speakers = site.data.navigation.speakers | sort: 'name' %}
+{% assign sorted_participants = page.other_participants | sort: 'name' %}
+
+<table>
+<tbody>
     {% for s in sorted_speakers %}
-        <li> {{ s.name }} </li>
+        <tr>
+            <td> {{ s.name }} </td>
+            <td> {{ s.from }} </td>
+        </tr>
     {% endfor %}
-    {% assign sorted_participants = page.other_participants | sort %}
+    {% for s in sorted_participants %}
+        <tr>
+            <td> {{ s.name }} </td>
+            <td> {{ s.from }} </td>
+        </tr>
+    {% endfor %}
+</tbody>
+</table>
+
+{% comment %}
+<ul>
+    {% for s in sorted_speakers %}
+        <li> {{ s.name }}, {{ s.from }}</li>
+    {% endfor %}
     {% for s in sorted_participants %}
         <li> {{ s }} </li>
     {% endfor %}
 </ul>
+{% endcomment %}
