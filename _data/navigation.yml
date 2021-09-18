@@ -34,27 +34,39 @@ contact:
             mail: "msperling@mail.tsinghua.edu.cn"
 
 speakers:
-  - name: Minxin Huang
+  - gname: Minxin
+    fname: Huang
     from: USTC, Hefei
-  - name: Sung-Soo Kim
+  - gname: Sung-Soo
+    fname: Kim
     from: UESTC, Chengdu
-  - name: Satoshi Nawata
+  - gname: Satoshi
+    fname: Nawata
     from: Fudan University, Shanghai
-  - name: Peng Zhao
+  - gname: Peng
+    fname: Zhao
     from: ITP CAS, Beijing
-  - name: Yinan Wang
+  - gname: Yinan
+    fname: Wang
     from: Peking University
-  - name: Futoshi Yagi
+  - gname: Futoshi
+    fname: Yagi
     from: South-West JiaoTong University, Chengdu
-  - name: Hong Zhang
+  - gname: Hong
+    fname: Zhang
     from: Shanghai University
-  - name: Ruidong Zhu
+  - gname: Ruidong
+    fname: Zhu
     from: Soochow University, Suzhou
-  - name: Ioannis Papadimitriou
+  - gname: Ioannis
+    fname: Papadimitriou
     from: BIMSA
-  - name: Yiwen Pan
+  - gname: Yiwen
+    fname: Pan
     from: Sun Yat-Sen University, Guangzhou
-  - name: Junbao Wu
+  - gname: Junbao
+    fname: Wu
     from: Tianjin University
-  - name: Yunfeng Jiang
+  - gname: Yunfeng
+    fname: Jiang
     from: Southeast University, Nanjing

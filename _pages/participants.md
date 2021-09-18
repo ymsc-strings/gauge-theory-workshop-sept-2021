@@ -8,17 +8,23 @@ sidebar:
     - nav: sitemap
     - nav: contact
 other_participants:
-    - name: Xiaobin Li
+    - gname: Xiaobin
+      fname: Li
       from: SWJT Chengdu
-    - name: Hao Wang
+    - gname: Hao
+      fname: Wang
       from: Fudan University
-    - name: Peihe Yang
+    - gname: Peihe
+      fname: Yang
       from: Tianjin University
-    - name: Jiang Jiaqun
+    - gname: Jiang
+      fname: Jiaqun
       from: Fudan University
-    - name: Junya Yagi
+    - gname: Junya
+      fname: Yagi
       from: YMSC Tsinghua University
-    - name: Babak Haghighat
+    - gname: Babak
+      fname: Haghighat
       from: YMSC Tsinghua University
 
 ---
@@ -28,33 +34,22 @@ other_participants:
     other_participants are in above claims
 {% endcomment %}
 
-{% assign sorted_speakers = site.data.navigation.speakers | sort: 'name' %}
-{% assign sorted_participants = page.other_participants | sort: 'name' %}
+{% assign sorted_speakers = site.data.navigation.speakers | sort:'gname' | sort: 'fname' %}
+{% assign sorted_participants = page.other_participants | sort:'gname' | sort: 'fname' %}
 
 <table>
 <tbody>
     {% for s in sorted_speakers %}
         <tr>
-            <td> {{ s.name }} </td>
+            <td> {{ s.gname }}&nbsp;{{ s.fname }} </td>
             <td> {{ s.from }} </td>
         </tr>
     {% endfor %}
     {% for s in sorted_participants %}
         <tr>
-            <td> {{ s.name }} </td>
+            <td> {{ s.gname }}&nbsp;{{ s.fname }} </td>
             <td> {{ s.from }} </td>
         </tr>
     {% endfor %}
 </tbody>
 </table>
-
-{% comment %}
-<ul>
-    {% for s in sorted_speakers %}
-        <li> {{ s.name }}, {{ s.from }}</li>
-    {% endfor %}
-    {% for s in sorted_participants %}
-        <li> {{ s }} </li>
-    {% endfor %}
-</ul>
-{% endcomment %}
