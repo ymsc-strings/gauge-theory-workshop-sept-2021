@@ -26,6 +26,9 @@ other_participants:
     - gname: Babak
       fname: Haghighat
       from: YMSC Tsinghua University
+    - gname: Fengjun
+      fname: Xu
+      from: BIMSA
 
 ---
 
