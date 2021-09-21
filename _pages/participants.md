@@ -32,6 +32,9 @@ other_participants:
     - gname: Jirui
       fname: Guo
       from: YMSC Tsinghua University
+    - gname: Wei
+      fname: Cui
+      from: BIMSA
 
 ---
 
