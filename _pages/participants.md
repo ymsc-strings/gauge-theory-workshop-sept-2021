@@ -17,8 +17,8 @@ other_participants:
     - gname: Peihe
       fname: Yang
       from: Tianjin University
-    - gname: Jiang
-      fname: Jiaqun
+    - gname: Jiaqun
+      fname: Jiang
       from: Fudan University
     - gname: Junya
       fname: Yagi
