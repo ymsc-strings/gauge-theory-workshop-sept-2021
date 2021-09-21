@@ -29,6 +29,9 @@ other_participants:
     - gname: Fengjun
       fname: Xu
       from: BIMSA
+    - gname: Jirui
+      fname: Guo
+      from: YMSC Tsinghua University
 
 ---
 
