@@ -47,6 +47,9 @@ other_participants:
     - gname: Hao
       fname: Zou
       from: BIMSA
+    - gname: Hongfei
+      fname: Shu
+      from: BIMSA
 
 ---
 
