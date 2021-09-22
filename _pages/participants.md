@@ -35,6 +35,18 @@ other_participants:
     - gname: Wei
       fname: Cui
       from: BIMSA
+    - gname: Ken
+      fname: Kikuchi
+      from: YMSC
+    - gname: Qingsheng
+      fname: Zhang
+      from: Peking University
+    - gname: Mauricio
+      fname: Romo
+      from: YMSC
+    - gname: Rui
+      fname: Dong
+      from: BIMSA
 
 ---
 
