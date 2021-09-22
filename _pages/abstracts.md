@@ -76,3 +76,7 @@ We discuss the vertical and horizontal representations of Quantum W subalgebras,
 ## Worldsheet Variables for Cluster Configuration Spaces and Hypersurface Arrangements by Peng Zhao
 
 We introduce worldsheet variables for a certain moduli space associated with a Dynkin diagram of finite type. The construction is based on gluing a pair of A-type quivers. We find new nonlinear factors that characterize such spaces as hypersurface arrangement complement. We study various topological properties using a finite-field method and propose conjectures about quasi-polynomial point count, dimensions of cohomology, and Euler characteristics for the $D_n$ space up to $n=10$. These new variables have applications for string integrals, cluster alphabets, etc.
+
+## Brane construction of the Bethe/gauge correspondence for superspin chains by Junya Yagi
+
+I will discuss a superalgebra generalization of the Bethe/gauge correspondence between 2d N=(2,2) quiver gauge theories and rational spin chains.  I will give a derivation of the correspondence by mapping it to 4d Chern-Simons theory via string dualities. Based on joint work with Nafiz Ishtiaque, Seyed Faroogh Moosavian and Surya Raghavendran.
