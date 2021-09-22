@@ -44,6 +44,9 @@ other_participants:
     - gname: Rui
       fname: Dong
       from: BIMSA
+    - gname: Hao
+      fname: Zou
+      from: BIMSA
 
 ---
 
