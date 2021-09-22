@@ -20,9 +20,6 @@ other_participants:
     - gname: Jiaqun
       fname: Jiang
       from: Fudan University
-    - gname: Junya
-      fname: Yagi
-      from: YMSC Tsinghua University
     - gname: Babak
       fname: Haghighat
       from: YMSC Tsinghua University
