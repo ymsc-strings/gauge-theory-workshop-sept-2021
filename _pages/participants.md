@@ -37,13 +37,13 @@ other_participants:
       from: BIMSA
     - gname: Ken
       fname: Kikuchi
-      from: YMSC
+      from: YMSC Tsinghua University
     - gname: Qingsheng
       fname: Zhang
       from: Peking University
     - gname: Mauricio
       fname: Romo
-      from: YMSC
+      from: YMSC Tsinghua University
     - gname: Rui
       fname: Dong
       from: BIMSA
