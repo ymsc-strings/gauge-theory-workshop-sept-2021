@@ -92,12 +92,16 @@ th{
       <td>lunch</td>
       <td>11:45&#8209;13:30</td>
       <td>lunch</td>
+      <td>11:15&#8209;11:30</td>
+      <td>break</td>
     </tr>
     <tr class="min60">
       <td>13:30&#8209;14:30</td>
       <td>talk<br><a href="https://ymsc-strings.github.io/gauge-theory-workshop-sept-2021/abstracts.html#3d-n4-unitaryorthosymplectic-duality-by-satoshi-nawata"><b>Satoshi&nbsp;Nawata</b></a></td>
       <td>13:30&#8209;14:30</td>
       <td>talk<br><a href="https://ymsc-strings.github.io/gauge-theory-workshop-sept-2021/abstracts.html#instanton-counting-in-bcd-type-gauge-theories-and-o-vertex-by-ruidong-zhu"><b>Ruidong&nbsp;Zhu</b></a></td>
+      <td>11:30&#8209;12:30</td>
+      <td>talk<br><a href="https://ymsc-strings.github.io/gauge-theory-workshop-sept-2021/abstracts.html#brane-construction-of-the-bethegauge-correspondence-for-superspin-chains-by-junya-yagi"><b>Junya&nbsp;Yagi</b></a></td>
     </tr>
     <tr class="min30">
       <td>14:30&#8209;15:00</td>

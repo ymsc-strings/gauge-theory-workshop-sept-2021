@@ -79,4 +79,4 @@ We introduce worldsheet variables for a certain moduli space associated with a D
 
 ## Brane construction of the Bethe/gauge correspondence for superspin chains by Junya Yagi
 
-I will discuss a superalgebra generalization of the Bethe/gauge correspondence between 2d N=(2,2) quiver gauge theories and rational spin chains.  I will give a derivation of the correspondence by mapping it to 4d Chern-Simons theory via string dualities. Based on joint work with Nafiz Ishtiaque, Seyed Faroogh Moosavian and Surya Raghavendran.
+I will discuss a superalgebra generalization of the Bethe/gauge correspondence between 2d $N=(2,2)$ quiver gauge theories and rational spin chains.  I will give a derivation of the correspondence by mapping it to 4d Chern-Simons theory via string dualities. Based on joint work with Nafiz Ishtiaque, Seyed Faroogh Moosavian and Surya Raghavendran.
