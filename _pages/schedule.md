@@ -105,7 +105,7 @@ th{
       <td>11:45&#8209;13:30</td>
       <td>lunch</td>
       <td>11:15&#8209;11:30</td>
-      <td>break</td>
+      <td>coffee&nbsp;break</td>
     </tr>
     <tr class="min60">
       <td>13:30&#8209;14:30</td>
