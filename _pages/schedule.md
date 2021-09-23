@@ -21,6 +21,7 @@ table.schedule{
   margin-bottom: 0;
   margin-top: 0;
   overflow-x: auto;
+  border-bottom-width:0;
 }
 
 tr.min15{
@@ -46,6 +47,17 @@ th{
   font-weight: bold;
   text-align: center;
 }
+</style>
+
+<style type="text/css" media="print">
+  a:link:after, a:visited:after {
+    display: none;
+    content: "";
+  }
+  td{
+  padding: 0 0.5em;
+  text-align: center;
+  }
 </style>
 
 <table class="schedule">
